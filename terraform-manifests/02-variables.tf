@@ -7,7 +7,7 @@
 variable "location" {
   type = string
   description = "Azure Region where all these resources will be provisioned"
-  default = "West US 2"
+  default = "East US"
 }
 
 # Azure Resource Group Name
